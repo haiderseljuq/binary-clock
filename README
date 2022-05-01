@@ -1,5 +1,9 @@
 Seljuq Haider sqhaider@udel.edu
 
+binaryclockdemo.mp4 - shows time between 7:01 and 7:02
+blue = hours, green = minutes, red = seconds
+
+
 compile using: "make all" 
 
 run using: "make run"
@@ -7,3 +11,5 @@ run using: "make run"
 clean using : "make clean" 
 
 note need ncurses library to compile
+
+
